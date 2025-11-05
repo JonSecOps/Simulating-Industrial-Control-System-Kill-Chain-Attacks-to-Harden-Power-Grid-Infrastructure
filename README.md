@@ -1,4 +1,5 @@
-# DOE-ORNL-Power-Grid-Project
+# Simulating Industrial Control System Kill Chain Attacks to Harden Power Grid Infrastructure
+
 **Project Summary:**
 This project emulates the 2015 Ukraine Power Grid Attacks using a virtual testbed to recreate the Industrial Control System (ICS) Kill Chain attack methodology. The purpose is to analyze vulnerabilities and tactics used in the attack to improve the cybersecurity measures of critical infrastructure like the U.S. power grid.
 
