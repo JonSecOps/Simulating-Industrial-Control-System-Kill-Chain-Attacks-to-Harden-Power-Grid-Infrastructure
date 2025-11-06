@@ -12,8 +12,8 @@ This project emulates the 2015 Ukraine Power Grid Attacks using a virtual testbe
 6. **Networking Skills:** Built and managed virtual network testbeds.
 7. **Documentation:** Improved attack-chain reporting and knowledge sharing.
 
-**Reference:**
-1. https://nsarchive.gwu.edu/sites/default/files/documents/3891751/SANS-and-Electricity-Information-Sharing-and.pdf
-2. https://www.youtube.com/watch?v=Yho3ab_-ukI
+**References:**
+1. **Analysis of the Cyber Attack on the Ukrainian Power Grid** - https://nsarchive.gwu.edu/sites/default/files/documents/3891751/SANS-and-Electricity-Information-Sharing-and.pdf
+2. **DarkNet Project Initiative** - https://www.youtube.com/watch?v=Yho3ab_-ukI
 
 ![image](https://github.com/user-attachments/assets/0b3ec4dd-843a-440e-aff6-c55f1fe94cd5)
