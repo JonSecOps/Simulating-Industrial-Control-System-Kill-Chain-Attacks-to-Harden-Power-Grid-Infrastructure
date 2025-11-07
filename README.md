@@ -1,7 +1,8 @@
 # Simulating Industrial Control System Kill Chain Attacks to Harden Power Grid Infrastructure
 
 **Project Summary:**
-This project emulates the 2015 Ukraine Power Grid Attacks using a virtual testbed to recreate the Industrial Control System (ICS) Kill Chain attack methodology. The purpose is to analyze vulnerabilities and tactics used in the attack to improve the cybersecurity measures of critical infrastructure like the U.S. power grid.
+
+This project emulates the 2015 Ukraine Power Grid attacks using a virtual testbed to conduct forensic investigations, analyze traces and evidence of breaches, test the resilience of DLT nodes and OT devices, and develop forensic tools. The work focuses on identifying vulnerabilities and attack tactics to strengthen cybersecurity measures for critical infrastructure, including U.S. power systems, while gaining hands-on experience with SCADA protocols and OT devices.
 
 **Learning Points:**
 1. **ICS Vulnerabilities:** Identified common weaknesses in Industrial Control Systems.
