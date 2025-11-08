@@ -1,4 +1,4 @@
-# Simulating Industrial Control System Kill Chain Attacks to Harden Power Grid Infrastructure
+# Power Grid Attack Simulation & Vulnerability Analysis
 
 **Project Summary:**
 
