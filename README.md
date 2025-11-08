@@ -2,7 +2,7 @@
 
 **Project Summary:**
 
-This project emulates the 2015 Ukraine Power Grid attacks using a virtual testbed to conduct forensic investigations, analyze traces and evidence of breaches, test the resilience of DLT nodes and OT devices, and develop forensic tools. The work focuses on identifying vulnerabilities and attack tactics to strengthen cybersecurity measures for critical infrastructure, including U.S. power systems, while gaining hands-on experience with SCADA protocols and OT devices.
+This project emulates the 2015 Ukraine Power Grid attacks using a virtual testbed to conduct forensic investigations, analyze traces and evidence of breaches, and test the resilience of DLT nodes and OT devices. The work focuses on identifying vulnerabilities and attack tactics to strengthen cybersecurity measures for critical infrastructure, including U.S. power systems, while gaining hands-on experience with SCADA protocols and OT devices.
 
 **Learning Points:**
 1. **ICS Vulnerabilities:** Identified common weaknesses in Industrial Control Systems.
